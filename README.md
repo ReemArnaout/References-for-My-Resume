@@ -1,0 +1,4 @@
+👋 Welcome to My GitHub!  
+
+Hi, I'm **Reem Arnaout**, a senior Computer and Communications Engineering student at the American University of Beirut with a passion for **Networking**, **Cybersecurity**, **Telecommunications**, and **Machine Learning**.
+I focus on leveraging innovative technologies to address complex challenges and thrive on engaging in hands-on projects that combine technical expertise with real-world applications.
