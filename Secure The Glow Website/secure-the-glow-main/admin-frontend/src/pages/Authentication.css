@@ -1,0 +1,60 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f2f2f2; 
+    padding: 0 20px; 
+    box-sizing: border-box;
+    flex-direction: column;
+  }
+  
+
+  .login-form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .login-form-item{
+    margin-bottom: 10px;
+  }
+
+  .login-button {
+    background-color: #cce4f1 !important; /* Use !important if necessary to override */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black !important; /* Override text color */
+    font-family: 'Garamond', cursive !important; /* Set font family */
+    font-weight: bold !important; /* Set font weight */
+    display: block; /* Center the button */
+    transition: background-color 0.3s; /* Smooth transition effect */
+}
+
+.login-button:hover {
+    background-color: #8ab6d6 !important; /* Background color on hover */
+}
+  @media (max-width: 600px) {
+    .loginForm {
+      padding: 20px;
+    }
+  }
+  
+.reset-password-page{
+  background-color: #f2f2f2 !important; 
+  display: flex; /* Enables flexbox layout */
+  flex-direction: row; /* Aligns items in a row */
+}
+.reset-password-page p {
+  width: 50%; /* Set width to 50% */
+ /* Center the text inside the paragraph */
+  margin-bottom: 20px; /* Add some spacing below */
+}
+.reset-password-page ul{
+  text-align: left; 
+}

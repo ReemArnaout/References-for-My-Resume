@@ -1,0 +1,8 @@
+.logout-button {
+    background-color: #cce4f1 !important; /* Use !important if necessary to override */
+
+}
+
+.logout-button:hover {
+    background-color: #8ab6d6 !important; /* Background color on hover */
+}
