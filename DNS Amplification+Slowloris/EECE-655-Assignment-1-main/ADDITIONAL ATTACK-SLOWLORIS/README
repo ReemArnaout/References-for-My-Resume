@@ -1,0 +1,11 @@
+Requirements:
+You need one kali and one ubuntu machine 
+
+Instructions:
+On the Victim machine where detection will run: 
+sudo apt-get install python3-psutil
+
+Sources: Attack code functions based on gkbrk code on github. Not completely sourced and much more simplified in my own way. 
+AI usage: Used to explain advanced code to get an idea on how to implement alone. Used for debugging and syntax as well.
+
+To run: sudo python3 slowlorisattack.py and enter the victim IP. Same running method for detection.
